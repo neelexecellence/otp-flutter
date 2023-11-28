@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905403432810",
+    "project_id": "phone-firebase-b3b02",
+    "storage_bucket": "phone-firebase-b3b02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905403432810:android:f6e34caafba848ab196f13",
+        "android_client_info": {
+          "package_name": "com.example.otpflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9UmXd72coPhkqLIwu3xMrsTZtewnYRJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
